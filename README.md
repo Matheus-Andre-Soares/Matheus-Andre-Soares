@@ -12,7 +12,7 @@
 <h2 align="center">Linguagens e Ferramentas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,html,mysql,unity,py" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,html,mysql,unity" />
   </a>
 </p>
 
