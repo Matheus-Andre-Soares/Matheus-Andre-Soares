@@ -27,7 +27,6 @@
 
 🎓 Computer Science student at UNIPÊ  
 💻 Developer proficient with Python, Django, Java and more.
-
 🚀 Interested in software development,game development, problem-solving and new technologies
 📍 João Pessoa, Brazil
 
