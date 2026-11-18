@@ -25,31 +25,15 @@
 
 ## 👨‍💻 About Me
 
-```python
-class MatheusAndre:
-    def __init__(self):
-        self.name = "Matheus André"
-        self.education = "Computer Science @ UNIPÊ"
-        self.role = "Back-end Developer"
-        self.location = "Brazil 🇧🇷"
+🎓 Computer Science student at UNIPÊ  
+💻 Back-end developer focused on Python and Django  
+🚀 Interested in software development, problem-solving and new technologies  
+📍 João Pessoa, Brazil
 
-        self.languages = ["Python", "Java", "C", "SQL"]
-        self.interests = [
-            "Back-end Development",
-            "Software Engineering",
-            "APIs",
-            "Database Systems"
-        ]
-
-    def current_focus(self):
-        return [
-            "Building software solutions",
-            "Improving my programming skills",
-            "Learning and collaborating"
-        ]
-
-me = MatheusAndre()
-```
+- 🔭 Currently working on improving my development skills.
+- 🌱 Learning more about Back-end development and software architecture.
+- 🤝 Open to collaborating on interesting projects.
+- 📫 Contact: **matheusandre2004@gmail.com**
 
 🎓 Computer Science student at **UNIPÊ**.
 
