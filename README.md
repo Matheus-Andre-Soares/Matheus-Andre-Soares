@@ -77,29 +77,6 @@ A Django application for managing personal expenses, organizing categories and c
 
 **Technologies:** Python · Django · Docker · SQLite · Git
 
-### 🏗️ Back-end Software Development Workshop
-
-<a href="https://github.com/Matheus-Andre-Soares/WorkshopBack-End-Turma2-2025.2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Andre-Soares&repo=WorkshopBack-End-Turma2-2025.2&theme=tokyonight&hide_border=true" />
-</a>
-
-Repository containing activities and materials from my Back-end development workshop.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus-Andre-Soares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Andre-Soares&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Andre-Soares&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
