@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:6D28D9&height=180&section=header&text=Matheus%20André&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%7C%20Developer&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:6D28D9&height=180&section=header&text=Matheus%20André&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer&descAlignY=58&descSize=16" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Developer+in+progress;Building+and+learning+every+day;Python+%7C+Django+%7C+SQL+%7C+Docker" />
