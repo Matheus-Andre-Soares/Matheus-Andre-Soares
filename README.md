@@ -26,20 +26,16 @@
 ## 👨‍💻 About Me
 
 🎓 Computer Science student at UNIPÊ  
-💻 Back-end developer focused on Python and Django  
+💻 Developer proficient with Python, Django, Java and more.
 🚀 Interested in software development, problem-solving and new technologies  
 📍 João Pessoa, Brazil
 
 - 🔭 Currently working on improving my development skills.
-- 🌱 Learning more about Back-end development and software architecture.
+- 🌱 Learning more about all types of development and coding.
 - 🤝 Open to collaborating on interesting projects.
 - 📫 Contact: **matheusandre2004@gmail.com**
 
 🎓 Computer Science student at **UNIPÊ**.
-
-💻 Interested in Back-end Development and Software Engineering.
-
-🐍 Working with Python and Django.
 
 🚀 Always looking to learn, build projects and solve problems.
 
